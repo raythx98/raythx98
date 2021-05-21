@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="center"><img width=100% src="assets/profile.gif"></p>
+
 <!--
 **raythx98/raythx98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
