@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center"><img width=100% src="assets/profile.gif"></p>
 
 <!--
