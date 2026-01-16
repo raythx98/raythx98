@@ -1,4 +1,4 @@
-## View my [website](https://raythx.com/)😄
+## View my [website](https://raythx98.github.io/me/)😄
 <p align="center"><img width=100% src="assets/profile.gif"></p>
 
 <!--
